@@ -3,21 +3,6 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://www.nolanemirot.com/posts/posts/</loc>
-    <lastmod>2020-10-09T22:45:36-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.nolanemirot.com/</loc>
-    <lastmod>2020-10-09T22:45:36-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.nolanemirot.com/posts/</loc>
-    <lastmod>2020-10-09T22:45:36-07:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://www.nolanemirot.com/blog/</loc>
     <priority>0</priority>
   </url>
@@ -28,6 +13,10 @@
   
   <url>
     <loc>http://www.nolanemirot.com/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>http://www.nolanemirot.com/</loc>
   </url>
   
   <url>
