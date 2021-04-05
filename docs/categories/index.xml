@@ -5,10 +5,6 @@
     <link>http://www.nolanemirot.com/categories/</link>
     <description>Recent content in Categories on nolan</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    
-	<atom:link href="http://www.nolanemirot.com/categories/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <language>en</language><atom:link href="http://www.nolanemirot.com/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
